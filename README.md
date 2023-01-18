@@ -1,10 +1,10 @@
 ### ¡Hola! Soy Franco - aka [FrancoFarallo] 👋
 
-## Soy estudiante de ingenieria y autodidacta
+## Soy Game Quality Analyst, estudiante de Game Desing y autodidacta
 
-- 🌱 ¡Actualmente estudio de todo! 🤣
+- 🌱 ¡Actualmente estudio Game Desing! 
 - 👯 Estoy buscando formar parte de un grupo de trabajo
-- 🥅 Logros de 2020: Entrar en la UTN y comenzar a desarrollar mis propios proyectos
+- 🥅 Logros de 2022: Finalizar el curso de Game QA y comenzar a desarrollar mis propios proyectos
 - ⚡ Datos curiosos: Tengo intereses muy variados, entre ellos la filosofia y el buceo
 
 ### Conectate conmigo:
@@ -44,6 +44,5 @@
 
 </details>
 
-[youtube]: https://www.youtube.com/channel/UCyp1qrm-sWtiAhtf7Yq5cRQ
 [instagram]: https://www.instagram.com/frank_fara25/
 [linkedin]: https://www.linkedin.com/in/franco-gabriel-farallo-18b9ab219/
