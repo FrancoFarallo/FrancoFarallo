@@ -1,20 +1,20 @@
-### ¡Hola! Soy Franco - aka [FrancoFarallo] 👋
+### Hi! Im Franco - aka [FrancoFarallo] 👋
 
-## Soy Game Quality Analyst, estudiante de Game Desing y autodidacta
+## Im a Game Quality Analyst, Game Desing student and autodidact
 
-- 🌱 ¡Actualmente estudio Game Desing! 
-- 👯 Estoy buscando formar parte de un grupo de trabajo
-- 🥅 Logros de 2022: Finalizar el curso de Game QA y comenzar a desarrollar mis propios proyectos
-- ⚡ Datos curiosos: Tengo intereses muy variados, entre ellos la filosofia y el buceo
+- 🌱 Now Im studying Game Desing! 
+- 👯 Im looking to be part of a work group
+- 🥅 2022 achievements: Finish Game QA course and start my own proyects
+- ⚡ Curiosities: I´ve got a lot of interests like phylosophy and diving
 
-### Conectate conmigo:
+### Conect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Lenguajes y Herramientas:
+### Lenguages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
